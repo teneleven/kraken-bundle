@@ -16,7 +16,7 @@
     },
     "require": {
         "php": ">=5.3.3",
-        "misd/guzzle-bundle": "1.x"
+        "guzzlehttp/guzzle": "^5.0"
     },
     "autoload": {
         "psr-4": {
